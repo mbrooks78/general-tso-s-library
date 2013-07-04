@@ -20,8 +20,8 @@ public class MainActivity extends Activity {
 	}
 
 } 
-/*Third revision to comments. This will be committed locally
- * and pushed to remote repository
+/* second attempt at Third revision to comments. This will be committed locally
+ * and pushed to remote repository 
  */
 
 
