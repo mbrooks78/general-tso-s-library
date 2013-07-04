@@ -20,6 +20,9 @@ public class MainActivity extends Activity {
 	}
 
 }
+/*Additional comments made after initial comments
+ * 
+ */
 
 /*I have made changes to commit and to help learn 
  * how to use git
