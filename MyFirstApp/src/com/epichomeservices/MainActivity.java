@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
 
 } 
 /* second attempt at Third revision to comments. This will be committed locally
- * and pushed to remote repository......
+ * and pushed to remote repository.......
  */
 
 
